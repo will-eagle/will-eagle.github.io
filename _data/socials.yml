@@ -8,7 +8,4 @@ email: will_eagle@utexas.edu # your email address
 #scholar_userid: 
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/will-eagle-6a9387254
-    logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgSKcHkTt51M7rXKd1QuAn4ChsoPXU5GGcg&s
+linkedin_username: will-eagle-6a9387254
