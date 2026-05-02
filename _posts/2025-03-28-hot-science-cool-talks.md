@@ -7,4 +7,5 @@ tags: outreach science-communication water
 categories: news
 ---
 
+{% include figure.liquid path="assets/img/HotScience.jpg"%}
 I'm always excited to help run a "Cool Activity" table before [Hot Science - Cool Talks](https://www.esi.utexas.edu/community-engagement/hot-science-cool-talks/). This time it was about the Future of Texas Water, and I got to share how paleoclimate reconstructions help to inform the use of water resources. It was exciting to see so many people excited to learn about what we are working on at the Banner Research Group!
