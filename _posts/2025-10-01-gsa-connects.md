@@ -6,5 +6,5 @@ description: Presenting research and reconnecting with the geoscience community
 tags: conferences research
 categories: news
 ---
-
+{% include figure.liquid path="assets/img/GSA.jpg" caption="An overdressed undergraduate (me) presenting his poster" %}
 I had the opportunity this year to present my research at GSA. My poster presentation went really well, and I had a lot of fun saying hi to old friends and meeting new people!
