@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hydrogeologist, UT Austin BEG<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Hydrogeologist, UT Austin BEG
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: AlaskaPic2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bureau of Economic Geology</p>
