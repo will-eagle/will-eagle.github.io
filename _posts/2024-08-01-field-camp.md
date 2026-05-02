@@ -6,7 +6,8 @@ description: Six weeks of geological field work in Montana's Tobacco Root Mounta
 tags: fieldwork geology
 categories: news
 ---
-
+{% include figure.liquid path="assets/img/FieldCamp.jpg" %}
 This summer, I spent six weeks at the Indiana University Geological Field Camp in Montana's Tobacco Root Mountains. During this immersive experience, I honed my field geology skills, including geologic mapping and measuring stratigraphic section. A special thanks to the instructors and fellow participants for making this an unforgettable experience. The connections and insights gained from such a dedicated group of people will undoubtedly influence my future in the geosciences.
-
+{% include figure.liquid path="assets/img/FieldCampRocks.jpg" %}
+{% include figure.liquid path="assets/img/FieldCampChalkBoard.jpg"%}
 Check out [this abstract](https://gsa.confex.com/gsa/2025NE/webprogram/Paper407530.html) that came out of some of the work we did at field camp!
