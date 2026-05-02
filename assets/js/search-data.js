@@ -193,17 +193,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/field-camp/";
           
         },
-      },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/tabs/";
-          
-        },
       },{id: "post-2024-udall-scholar",
         
           title: "2024 Udall Scholar",
