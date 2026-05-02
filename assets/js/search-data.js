@@ -72,7 +72,62 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-gsa-connects-2025",
+        
+          title: "GSA Connects 2025",
+        
+        description: "Presenting research and reconnecting with the geoscience community",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/gsa-connects/";
+          
+        },
+      },{id: "post-california-tree-coring",
+        
+          title: "California Tree Coring",
+        
+        description: "Helping UT researchers study critical zone response to drought in California&#39;s Central Valley",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/california-tree-coring/";
+          
+        },
+      },{id: "post-summer-adventures",
+        
+          title: "Summer Adventures",
+        
+        description: "Backpacking through Europe after hydro field camp — Spain, France, Italy, and the Tour du Mont Blanc",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/summer-adventures/";
+          
+        },
+      },{id: "post-texas-climate-conference",
+        
+          title: "Texas Climate Conference",
+        
+        description: "Presenting drought reconstruction research at Rice University",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/texas-climate-conference/";
+          
+        },
+      },{id: "post-hot-science-cool-talks",
+        
+          title: "Hot Science — Cool Talks!",
+        
+        description: "Running a public outreach table on the Future of Texas Water",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hot-science-cool-talks/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -81,6 +136,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-patagonia",
+        
+          title: "Patagonia!",
+        
+        description: "Spring break trip to Chile and Argentina with the Undergraduate Honors Program",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/patagonia/";
+          
+        },
+      },{id: "post-jsg-research-symposium",
+        
+          title: "JSG Research Symposium",
+        
+        description: "Presenting Texas drought reconstructions at the Jackson School of Geosciences Student Research Symposium",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/jsg-research-symposium/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -92,6 +169,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery/";
+          
+        },
+      },{id: "post-applied-karst-hydrogeology",
+        
+          title: "Applied Karst Hydrogeology",
+        
+        description: "Taking karst hydrogeology in the Texas Hill Country — fieldwork, data collection, and water resource management",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/applied-karst-hydrogeology/";
+          
+        },
+      },{id: "post-field-camp",
+        
+          title: "Field Camp",
+        
+        description: "Six weeks of geological field work in Montana&#39;s Tobacco Root Mountains",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/field-camp/";
           
         },
       },{id: "post-a-post-with-tabs",
@@ -136,6 +235,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/pseudocode/";
+          
+        },
+      },{id: "post-2024-udall-scholar",
+        
+          title: "2024 Udall Scholar",
+        
+        description: "Selected as one of fifty 2024 Udall Scholars",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/udall-scholar/";
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -485,46 +595,18 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%77%69%6C%6C_%65%61%67%6C%65@%75%74%65%78%61%73.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/will-eagle-6a9387254", "_blank");
         },
       },{
       id: 'light-theme',
