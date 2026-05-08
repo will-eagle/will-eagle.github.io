@@ -68,16 +68,20 @@ cv:
 
     Volunteering:
       - organization: UT Student Government
-      - role: Longhorn Legislative Aid, Representative, Sustainability Caucus Chair
+        role: Longhorn Legislative Aid, Representative, Sustainability Caucus Chair
 
       - organization: Undergraduate Geological Society
-      - role: member, officer
+        role: member, officer
       
     Skills:
-      - name: Data Analysis: Python (Pandas, Matplotlib, Numpy), ArcGIS Pro, geochemical modeling, hydrologic modeling (Hydrus 1D), Microsoft Office, Adobe Creative Cloud, database management, data analysis and visualization
+      - name: Data Analysis. 
+        skills: Python (Pandas, Matplotlib, Numpy), ArcGIS Pro, geochemical modeling, hydrologic modeling (Hydrus 1D), Microsoft Office, Adobe Creative Cloud, database management, data analysis and visualization.
       
-      - name: Field work: Trip planning and logistics, geologic mapping, surface water sampling, well sampling, soil sampling, tree coring, karst hydrology 
-     
-      - name: Technical: caving, single rope technique (SRT), rock climbing
-      
-      - name: Lab: Clean lab procedures, alkalinity titrations, sample preperation
+      - name: Field work.
+        skills:  Trip planning and logistics, geologic mapping, water sampling, soil sampling, tree coring, stream gauging (FlowTracker, ADCP), shallow geophysics (EM,ERT) 
+        
+      - name: Technical.
+        skills: caving, single rope technique (changeovers, rebelays, rapelling), rock climbing (sport, trad)
+        
+      - name: Lab.
+        skills: Clean lab procedures, alkalinity titrations, sample preperation.
