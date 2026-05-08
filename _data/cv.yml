@@ -74,14 +74,35 @@ cv:
         role: member, officer
       
     Skills:
-      - name: Data Analysis. 
-        skills: Python (Pandas, Matplotlib, Numpy), ArcGIS Pro, geochemical modeling, hydrologic modeling (Hydrus 1D), Microsoft Office, Adobe Creative Cloud, database management, data analysis and visualization.
-      
-      - name: Field work.
-        skills:  Trip planning and logistics, geologic mapping, water sampling, soil sampling, tree coring, stream gauging (FlowTracker, ADCP), shallow geophysics (EM,ERT) 
-        
-      - name: Technical.
-        skills: caving, single rope technique (changeovers, rebelays, rapelling), rock climbing (sport, trad)
-        
-      - name: Lab.
-        skills: Clean lab procedures, alkalinity titrations, sample preperation.
+      - name: Data Analysis
+        keywords:
+          - Python (Pandas, Matplotlib, Numpy)
+          - ArcGIS Pro
+          - geochemical modeling
+          - hydrologic modeling (Hydrus 1D)
+          - Microsoft Office
+          - Adobe Creative Cloud
+          - database management
+          - data analysis and visualization
+
+      - name: Field Work
+        keywords:
+          - Trip planning and logistics
+          - geologic mapping
+          - water sampling
+          - soil sampling
+          - tree coring
+          - stream gauging (FlowTracker, ADCP)
+          - shallow geophysics (EM, ERT)
+
+      - name: Technical
+        keywords:
+          - caving
+          - single rope technique (changeovers, rebelays, rappelling)
+          - rock climbing (sport, trad)
+
+      - name: Lab
+        keywords:
+          - clean lab procedures
+          - alkalinity titrations
+          - sample preparation
