@@ -57,15 +57,10 @@ cv:
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
 
-    Presentations:
-      - title: Reconstructing Climate Change in the Pedernales River Basin
-        authors:
-          - Eagle, W,. Abella J., Janelle, A., Banner, J
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
+   Presentations:
+      - label: "GSA Connects 2025, Texas Water Resources Network, Texas Climate Conference, Jackson School of Geosciences Research Symposium"
+        details: "Reconstructing Climate Change in the Pedernales River Basin. Eagle, W., Abella J., Janelle, A., Banner, J."
+     
     Volunteering:
       - organization: UT Student Government
         role: Longhorn Legislative Aid, Representative, Sustainability Caucus Chair
