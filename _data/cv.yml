@@ -1,10 +1,7 @@
 cv:
   name: William H. Eagle
-  label: Hydrogeologist
   email: will_eagle@utexas.edu
   location: Austin, Texas
-  image: ""
-  summary: Geoscientist interested in surface water/groundwater interactions
 
   sections:
     Education:
@@ -28,7 +25,7 @@ cv:
       - company: UT Austin, Bureau of Economic Geology
         position: Undergraduate Research Assistant
         location: Austin, Texas
-        start_date: 2026
+        start_date: 2023
         end_date: 2026
         highlights:
           - Hydrologic monitoring. Tested and deployed sensors and HOBO data loggers for hydrologic monitoring across central Texas.
@@ -44,54 +41,50 @@ cv:
           - Urban Hydrosciences water quality monitoring. Sampling of stream water in 3 watersheds around Austin. Analysis of major ions, and trace elements.
           - Project CRESSLE. Sampling of stream water to investigate environmental justice issues in Austin.
 
+    Volunteer:
+      - company: UT Student Government
+        position: Longhorn Legislative Aid, Representative, Sustainability Caucus Chair
+        location: Austin, Texas
+        start_date: 2022
+        end_date: 2026
+      - company: Undergraduate Geological Society
+        position: Member, Officer
+        location: Austin, Texas
+        start_date: 2022
+        end_date: 2026
+
     Awards:
       - title: Udall Undergraduate Scholarship
+        authors:
+          - Udall Foundation
         date: 2024
         awarder: Udall Foundation
         url: https://www.udall.gov/
         summary: The Scholarship Program identifies future leaders in environmental, Tribal public policy, and health care fields. It is highly competitive, with students participating in their schools' internal competitions before receiving consideration from the Udall Foundation.
       - title: Groundwater Field Methods, Outstanding Undergraduate Student
-        date: Summer 2025
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+        authors:
+          - UT Austin
+        date: 2025
+        awarder: UT Austin
+        summary: Awarded for outstanding scientific achievement.
 
-    Presentations:
-      - label: "GSA Connects 2025, Texas Water Resources Network, Texas Climate Conference, Jackson School of Geosciences Research Symposium"
-        details: "Reconstructing Climate Change in the Pedernales River Basin. Eagle, W., Abella J., Janelle, A., Banner, J."
-
-    Volunteering:
-      - organization: UT Student Government
-        role: Longhorn Legislative Aid, Representative, Sustainability Caucus Chair
-      - organization: Undergraduate Geological Society
-        role: member, officer
+    Publications:
+      - title: Reconstructing Climate Change in the Pedernales River Basin
+        authors:
+          - Eagle, W.
+          - Abella, J.
+          - Janelle, A.
+          - Banner, J.
+        publisher: GSA Connects 2025
+        releaseDate: 2025-10-01
+        summary: Presented at GSA Connects 2025, Texas Water Resources Network, Texas Climate Conference, and Jackson School of Geosciences Research Symposium.
 
     Skills:
       - name: Data Analysis
-        keywords:
-          - Python (Pandas, Matplotlib, Numpy)
-          - ArcGIS Pro
-          - geochemical modeling
-          - hydrologic modeling (Hydrus 1D)
-          - Microsoft Office
-          - Adobe Creative Cloud
-          - database management
-          - data analysis and visualization
+        keywords: "Python (Pandas, Matplotlib, Numpy), ArcGIS Pro, geochemical modeling, hydrologic modeling (Hydrus 1D), Microsoft Office, Adobe Creative Cloud, database management, data analysis and visualization"
       - name: Field Work
-        keywords:
-          - Trip planning and logistics
-          - geologic mapping
-          - water sampling
-          - soil sampling
-          - tree coring
-          - stream gauging (FlowTracker, ADCP)
-          - shallow geophysics (EM, ERT)
+        keywords: "Trip planning and logistics, geologic mapping, water sampling, soil sampling, tree coring, stream gauging (FlowTracker, ADCP), shallow geophysics (EM, ERT)"
       - name: Technical
-        keywords:
-          - caving
-          - single rope technique (changeovers, rebelays, rappelling)
-          - rock climbing (sport, trad)
+        keywords: "caving, single rope technique (changeovers, rebelays, rappelling), rock climbing (sport, trad)"
       - name: Lab
-        keywords:
-          - clean lab procedures
-          - alkalinity titrations
-          - sample preparation
+        keywords: "clean lab procedures, alkalinity titrations, sample preparation"
