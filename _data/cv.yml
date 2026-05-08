@@ -16,13 +16,13 @@ cv:
         end_date: 2026
         highlights:
           - My undergraduate thesis focused on using tree rings in contrasting hydrogeologic settings to evaluate groundwater flow paths and optimize paleo-drought reconstructions. I found that perennially spring-fed trees underestimated droughts, and ephemerally spring-fed trees underestimated wet periods.
-          
+
     Experience:
       - company: UT Austin, Bureau of Economic Geology
         position: Postbaccalaureate Researcher (RSA1)
         location: Austin, Texas
         start_date: 2026
-        end_date: 
+        end_date:
         highlights:
           - Assisted with instruction of Field Hydrogeology Course
       - company: UT Austin, Bureau of Economic Geology
@@ -34,15 +34,14 @@ cv:
           - Hydrologic monitoring. Tested and deployed sensors and HOBO data loggers for hydrologic monitoring across central Texas.
           - Radon in water. Standardized methods and evaluated applications of radon as a geochemical tracer of SW/GW interaction.
           - Hydrogeologic mapping and subsurface characterization. Leveraged geologic mapping and downhole logging to characterize hydrogeologic systems.
-          
-      - company: UT, Austin, Jackson School of Geosciences
+      - company: UT Austin, Jackson School of Geosciences
         position: Undergraduate Research Assistant
         location: Austin, Texas
         start_date: 2023
         end_date: 2026
         highlights:
           - Paleoclimate Cave Monitoring. Monthly monitoring of 4 caves in the Texas Hill Country. Collected dripwater, plate calcite, and atmospheric parameters. Analysis of major ions, and trace elements.
-          - Urban Hydrosciences water quality monitoring. Sampling of stream water in 3 watersheds around Austin. Analysis of major ions, and trace elements
+          - Urban Hydrosciences water quality monitoring. Sampling of stream water in 3 watersheds around Austin. Analysis of major ions, and trace elements.
           - Project CRESSLE. Sampling of stream water to investigate environmental justice issues in Austin.
 
     Awards:
@@ -50,24 +49,22 @@ cv:
         date: 2024
         awarder: Udall Foundation
         url: https://www.udall.gov/
-        summary: The Scholarship Program identifies future leaders in environmental, Tribal public policy, and health care fields. It is highly competitive, with students participating in their schools’ internal competitions before receiving consideration from the Udall Foundation.
-        
+        summary: The Scholarship Program identifies future leaders in environmental, Tribal public policy, and health care fields. It is highly competitive, with students participating in their schools' internal competitions before receiving consideration from the Udall Foundation.
       - title: Groundwater Field Methods, Outstanding Undergraduate Student
         date: Summer 2025
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
 
-   Presentations:
+    Presentations:
       - label: "GSA Connects 2025, Texas Water Resources Network, Texas Climate Conference, Jackson School of Geosciences Research Symposium"
         details: "Reconstructing Climate Change in the Pedernales River Basin. Eagle, W., Abella J., Janelle, A., Banner, J."
-     
+
     Volunteering:
       - organization: UT Student Government
         role: Longhorn Legislative Aid, Representative, Sustainability Caucus Chair
-
       - organization: Undergraduate Geological Society
         role: member, officer
-      
+
     Skills:
       - name: Data Analysis
         keywords:
@@ -79,7 +76,6 @@ cv:
           - Adobe Creative Cloud
           - database management
           - data analysis and visualization
-
       - name: Field Work
         keywords:
           - Trip planning and logistics
@@ -89,13 +85,11 @@ cv:
           - tree coring
           - stream gauging (FlowTracker, ADCP)
           - shallow geophysics (EM, ERT)
-
       - name: Technical
         keywords:
           - caving
           - single rope technique (changeovers, rebelays, rappelling)
           - rock climbing (sport, trad)
-
       - name: Lab
         keywords:
           - clean lab procedures
