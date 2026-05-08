@@ -1,120 +1,66 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: William H. Eagle
+  label: Hydrogeologist
+  email: will_eagle@utexas.edu
+  location: Austin, Texas
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  summary: Geoscientist interested in surface water/groundwater interactions
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Texas at Austin, Bureau of Economic Geology
+        location: Austin, Texas
+        area: Geosciences
+        studyType: Bachelor of Science
+        start_date: 2022
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
+          - My undergraduate thesis focused on using tree rings in contrasting hydrogeologic settings to evaluate groundwater flow paths and optimize paleo-drought reconstructions. I found that perennially spring-fed trees underestimated droughts, and ephemerally spring-fed trees underestimated wet periods.
+          
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: UT Austin, Bureau of Economic Geology
+        position:Postbaccalaureate Researcher (RSA1)
+        location: Austin, Texas
+        start_date: 2026
+        end_date: 
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - Assisted with instruction of Field Hydrogeology Course
+      - company: UT Austin, Bureau of Economic Geology
+        position: Undergraduate Research Assistant
+        location: Austin, Texas
+        start_date: 2026
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          - Hydrologic monitoring. Tested and deployed sensors and HOBO data loggers for hydrologic monitoring across central Texas.
+          - Radon in water. Standardized methods and evaluated applications of radon as a geochemical tracer of SW/GW interaction.
+          - Hydrogeologic mapping and subsurface characterization. Leveraged geologic mapping and downhole logging to characterize hydrogeologic systems.
+          
+      - company: UT, Austin, Jackson School of Geosciences
+        position: Undergraduate Research Assistant
+        location: Austin, Texas
+        start_date: 2023
+        end_date: 2026
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Paleoclimate Cave Monitoring. Monthly monitoring of 4 caves in the Texas Hill Country. Collected dripwater, plate calcite, and atmospheric parameters. Analysis of major ions, and trace elements.
+          - Urban Hydrosciences water quality monitoring. Sampling of stream water in 3 watersheds around Austin. Analysis of major ions, and trace elements
+          - Project CRESSLE. Sampling of stream water to investigate environmental justice issues in Austin.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
+      - title: Udall Undergraduate Scholarship
+        date: 2024
+        awarder: Udall Foundation
+        url: https://www.udall.gov/
+        summary: The Scholarship Program identifies future leaders in environmental, Tribal public policy, and health care fields. It is highly competitive, with students participating in their schools’ internal competitions before receiving consideration from the Udall Foundation.
+        
+      - title: Groundwater Field Methods, Outstanding Undergraduate Student
+        date: Summer 2025
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+    Presentations:
+      - title: Reconstructing Climate Change in the Pedernales River Basin
         authors:
-          - Albert Einstein
+          - Eagle, W,. Abella J., Janelle, A., Banner, J
         publisher: Annalen der Physik
         releaseDate: 1905-06-30
         url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
@@ -135,55 +81,16 @@ cv:
         releaseDate: 1916-03-20
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+   
+    Volunteering:
+      - organization: UT Student Government
+      - role: Longhorn Legislative Aid, Representative, Sustainability Caucus Chair
 
+      - organization: Undergraduate Geological Society
+      - role: member, officer
+      
     Skills:
       - name: Physics
         level: Master
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
