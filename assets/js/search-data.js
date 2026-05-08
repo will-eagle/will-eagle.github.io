@@ -51,14 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-gsa-connects-2025",
+        },{id: "post-gsa-connects-2025",
         
           title: "GSA Connects 2025",
         
