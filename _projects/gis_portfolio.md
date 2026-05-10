@@ -2,119 +2,130 @@
 layout: page
 title: GIS Maps & Spatial Analysis
 description: A collection of cartographic layouts and spatial analyses
-img: assets/img/gis/layout_01.jpg
+img: assets/img/gis/BBRfirerisk.jpg
 importance: 1
 category: work
 ---
 
-A selection of map layouts produced in ArcGIS Pro and QGIS spanning hydrological analysis, land use classification, and spatial data visualization. Projects range from regional-scale watershed mapping to site-level field survey outputs.
+A selection of map layouts produced in ArcGIS Pro and QGIS spanning fire risk assessment, geology, hydrology, and spatial data visualization. Projects range from national-scale analyses to site-level field survey outputs.
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_01.jpg" title="Layout 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/BBRfirerisk.jpg" title="Big Bend Ranch Fire Risk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 1 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
-</div>
-
----
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_02.jpg" title="Layout 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    <strong>Layout 2 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>Big Bend Ranch Wildfire Assessment.</strong> Description here.
 </div>
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_03.jpg" title="Layout 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/CmMaGeoGrg.jpg" title="Camp Mabry Geology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 3 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>Geology and Geography of Camp Mabry Army Base.</strong> Description here.
 </div>
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_04.jpg" title="Layout 4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/EllicottFloodRisk.jpg" title="Ellicott Flood Risk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 4 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>Little Patuxent Watershed Flood Risk, Ellicott City, Maryland.</strong> Description here.
 </div>
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_05.jpg" title="Layout 5" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/guadnpowlhabitat.jpg" title="Guadalupe Mountains Owl Habitat" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 5 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>Mexican Spotted Owl Habitat, Guadalupe Mountains National Park.</strong> Description here.
 </div>
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_06.jpg" title="Layout 6" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/HCFSGeology.jpg" title="HCFS Geology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 6 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>HCFS Geological Map.</strong> Description here.
 </div>
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_07.jpg" title="Layout 7" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/hillcountrygeo.png" title="Hill Country Geology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 7 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>Hill Country Geological Map.</strong> Description here.
 </div>
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_08.jpg" title="Layout 8" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/mcigeo.jpg" title="MCI Geology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 8 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>MCI Geological Analysis.</strong> Description here.
 </div>
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_09.jpg" title="Layout 9" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/mcihydrology.jpg" title="MCI Hydrology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 9 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>Contributing Region to McIver Ranch — Hydrological Analysis.</strong> Description here.
 </div>
 
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gis/layout_10.jpg" title="Layout 10" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gis/MountainWatertowers.jpg" title="Mountain Watertowers" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <strong>Layout 10 — Title Here.</strong> Brief description of what this map shows, the data sources used, and any notable methods or findings.
+    <strong>Mountain Watertowers — Global Freshwater Contribution.</strong> Description here.
+</div>
+
+---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gis/TiCaGeology.jpg" title="Timpanogos Cave Geology" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    <strong>Geologic Map of Timpanogos Cave National Monument.</strong> Description here.
+</div>
+
+---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gis/YoGlacierHistory.jpg" title="Yosemite Glacier History" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    <strong>Tioga Glaciation Maximum Extent, Yosemite National Park.</strong> Description here.
 </div>
