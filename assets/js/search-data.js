@@ -177,9 +177,9 @@ ninja.data = [{
           description: "A collection of cartographic layouts and spatial analyses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gis_portfolio/";
-            },},{id: "projects-tree-ring-research",
-          title: 'Tree Ring Research',
-          description: "Brief one-liner that appears on the projects card",
+            },},{id: "projects-karst-hydrogeology-amp-bald-cypress-tree-rings",
+          title: 'Karst Hydrogeology &amp;amp; Bald Cypress Tree Rings',
+          description: "Investigating how karst spring hydrology modulates bald cypress climate sensitivity in the Texas Hill Country",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tree-rings/";
             },},{id: "teachings-data-science-fundamentals",
