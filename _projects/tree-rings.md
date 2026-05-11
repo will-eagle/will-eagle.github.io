@@ -2,7 +2,7 @@
 layout: page
 title: Karst Hydrogeology & Bald Cypress Tree Rings
 description: Investigating how karst spring hydrology modulates bald cypress climate sensitivity in the Texas Hill Country
-img: assets/img/tree-rings/drought_conceptual_model_cartoonV3.jpg
+img: assets/img/tree_rings/drought_conceptual_model_cartoonV3.jpg
 importance: 2
 category: work
 related_publications: true
@@ -25,7 +25,7 @@ a promising archive — if their hydrogeologic setting is properly accounted for
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree-rings/MapandCrosssectionV2.jpg"
+       path="assets/img/tree_rings/MapandCrosssectionV2.jpg"
        title="Geologic map and hydrogeologic cross section of the Pedernales River study area"
        class="img-fluid rounded z-depth-1" %}
   </div>
@@ -72,7 +72,7 @@ correlation analysis.
   <div class="col-sm-10 mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree-rings/PedernalesChronologyFig.jpg"
+       path="assets/img/tree_rings/PedernalesChronologyFig.jpg"
        title="Pedernales River Basin ring-width chronology and scPDSI correlation"
        class="img-fluid rounded z-depth-1" %}
   </div>
@@ -99,7 +99,7 @@ south Texas.
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree-rings/TimeseriesFig.jpg"
+       path="assets/img/tree_rings/TimeseriesFig.jpg"
        title="Time series comparison of perennial and ephemeral chronologies with scPDSI"
        class="img-fluid rounded z-depth-1" %}
   </div>
@@ -127,14 +127,14 @@ wet periods:
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree-rings/LOWESSFig.jpg"
+       path="assets/img/tree_rings/LOWESSFig.jpg"
        title="LOWESS regression of RWI vs. scPDSI for ephemeral and perennial chronologies"
        class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree-rings/ThresholdCorrelationFig.jpg"
+       path="assets/img/tree_rings/ThresholdCorrelationFig.jpg"
        title="Threshold correlation analysis across drought and wet period intensities"
        class="img-fluid rounded z-depth-1" %}
   </div>
@@ -156,7 +156,7 @@ wet periods:
   <div class="col-sm-10 mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree-rings/drought_conceptual_model_cartoonV3.jpg"
+       path="assets/img/tree_rings/drought_conceptual_model_cartoonV3.jpg"
        title="Conceptual model of karst hydrogeologic control on tree-ring climate sensitivity"
        class="img-fluid rounded z-depth-1" %}
   </div>
