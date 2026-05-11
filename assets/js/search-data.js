@@ -177,6 +177,11 @@ ninja.data = [{
           description: "A collection of cartographic layouts and spatial analyses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gis_portfolio/";
+            },},{id: "projects-tree-ring-research",
+          title: 'Tree Ring Research',
+          description: "Brief one-liner that appears on the projects card",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tree-rings/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
