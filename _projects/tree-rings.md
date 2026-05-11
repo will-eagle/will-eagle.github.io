@@ -2,8 +2,8 @@
 layout: page
 title: Tree Ring Research
 description: Brief one-liner that appears on the projects card
-img: assets/img/projects/tree-rings/cover.jpg
-importance: 1
+img: assets/img/projects/tree-rings/drought_conceptual_model_cartoonV3.jpg
+importance: 2
 category: research
 related_publications: true
 ---
@@ -31,14 +31,14 @@ you did and why it matters without scrolling further.
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/projects/tree-rings/site-map.jpg"
+       path="assets/img/projects/tree-rings/MapandCrosssectionV2.jpg"
        title="Study site map"
        class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/projects/tree-rings/core-sampling.jpg"
+       path="assets/img/projects/tree-rings/core.jpg"
        title="Field coring"
        class="img-fluid rounded z-depth-1" %}
   </div>
