@@ -4,7 +4,7 @@ title: Tree Ring Research
 description: Brief one-liner that appears on the projects card
 img: assets/img/projects/tree-rings/drought_conceptual_model_cartoonV3.jpg
 importance: 2
-category: research
+category: work
 related_publications: true
 ---
 
