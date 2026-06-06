@@ -3,7 +3,7 @@ layout: page
 title: Karst Hydrogeology & Bald Cypress Tree Rings
 description: Investigating how karst spring hydrology modulates bald cypress climate sensitivity in the Texas Hill Country
 img: assets/img/tree_rings/coring.jpg
-importance: 2
+importance: 1
 category: work
 related_publications: true
 ---

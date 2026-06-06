@@ -3,7 +3,7 @@ layout: page
 title: GIS Maps & Spatial Analysis
 description: A collection of cartographic layouts and spatial analyses
 img: assets/img/gis/BBRfirerisk.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
