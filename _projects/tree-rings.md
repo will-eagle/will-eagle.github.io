@@ -70,16 +70,15 @@ correlation analysis.
   <div class="col-sm-10 mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree_rings/PedernalesChronologyFig.jpg"
+       path="assets/img/tree_rings/timeseriesv3.jpg"
        title="Pedernales River Basin ring-width chronology and scPDSI correlation"
        class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  Full Pedernales River Basin ring-width chronology (top), with robust signal (SSS > 0.85)
-  from 1887–2024. The chronology correlates strongly with central Texas June scPDSI,
-  with significant correlation extending from northern Mexico to Oklahoma (bottom left),
-  and seasonal correlation peaking in summer months (bottom right).
+  Pedernales River Basin ring width index (RWI) compared with central Texas scPDSI,
+  1900–2024, for the full chronology (A) and its perennial (B) and ephemeral (C) subsets.
+  The 1950s drought of record and the 2011 drought are highlighted.
 </div>
 
 The full chronology spans 1448–2024, with robust subsample signal strength (SSS > 0.85) from
@@ -97,7 +96,7 @@ south Texas.
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree_rings/TimeseriesFig.jpg"
+       path="assets/img/tree_rings/timeseriesv3.jpg"
        title="Time series comparison of perennial and ephemeral chronologies with scPDSI"
        class="img-fluid rounded z-depth-1" %}
   </div>
@@ -125,14 +124,14 @@ wet periods:
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree_rings/LOWESSFig.jpg"
+       path="assets/img/tree_rings/Per_eph_LOWESS.jpg"
        title="LOWESS regression of RWI vs. scPDSI for ephemeral and perennial chronologies"
        class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid
        loading="eager"
-       path="assets/img/tree_rings/ThresholdCorrelationFig.jpg"
+       path="assets/img/tree_rings/thresholdcorrelation.jpg"
        title="Threshold correlation analysis across drought and wet period intensities"
        class="img-fluid rounded z-depth-1" %}
   </div>
