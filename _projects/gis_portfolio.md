@@ -4,7 +4,7 @@ title: GIS Maps & Spatial Analysis
 description: A collection of cartographic layouts and spatial analyses
 img: assets/img/gis/BBRfirerisk.jpg
 importance: 2
-category: work
+category: archived
 ---
 
 A selection of map layouts produced in ArcGIS Pro spanning fire risk assessment, geology, hydrology, and spatial data visualization. Projects range from national-scale analyses to site-level field survey outputs. These were produced as part of independent research, consulting work, and projects for various classes at UT Austin.
