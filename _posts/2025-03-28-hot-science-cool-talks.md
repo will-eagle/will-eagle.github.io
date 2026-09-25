@@ -5,6 +5,7 @@ date: 2025-03-28 12:00:00
 description: Running a public outreach table on the Future of Texas Water
 tags: outreach science-communication water
 categories: news
+thumbnail: assets/img/HotScience.jpg
 ---
 
 {% include figure.liquid path="assets/img/HotScience.jpg"%}

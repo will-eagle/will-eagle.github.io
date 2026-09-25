@@ -5,6 +5,7 @@ date: 2024-04-01 12:00:00
 description: Selected as one of fifty 2024 Udall Scholars
 tags: awards scholarship
 categories: news
+thumbnail: assets/img/Udall.jpg
 ---
 {% include figure.liquid path="assets/img/Udall.jpg" %}
 {% include figure.liquid path="assets/img/UdallSquad.jpg"%}

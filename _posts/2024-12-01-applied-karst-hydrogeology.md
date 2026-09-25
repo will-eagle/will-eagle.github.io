@@ -5,6 +5,7 @@ date: 2024-12-01 12:00:00
 description: Taking karst hydrogeology in the Texas Hill Country — fieldwork, data collection, and water resource management
 tags: coursework karst hydrogeology fieldwork
 categories: news
+thumbnail: assets/img/KarstRiver.jpg
 ---
 {% include figure.liquid path="assets/img/KarstRiver.jpg" caption="The Beautiful Blanco River" %}
 This semester I had the pleasure of taking the Applied Karst Hydrogeology class at UT. It was a really fantastic experience and I learned a lot about the complicated resource that is water in the Texas Hill Country.
