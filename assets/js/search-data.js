@@ -177,6 +177,11 @@ ninja.data = [{
           description: "A collection of cartographic layouts and spatial analyses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gis_portfolio/";
+            },},{id: "projects-hydrogeochemistry-of-hill-country-aquifers",
+          title: 'Hydrogeochemistry of Hill Country Aquifers',
+          description: "Applying geochemical tracers to characterize aquifer flow paths",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hill_country_water_quality/";
             },},{id: "projects-karst-hydrogeology-amp-bald-cypress-tree-rings",
           title: 'Karst Hydrogeology &amp;amp; Bald Cypress Tree Rings',
           description: "Investigating how karst spring hydrology modulates bald cypress climate sensitivity in the Texas Hill Country",
